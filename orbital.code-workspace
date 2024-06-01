@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"name": "orbital",
+			"path": "."
+		},
+		{
+			"name": "node_modules",
+			"path": "../orbital 2024/ihsan-orbital/node_modules"
+		},
+		{
+			"name": "public",
+			"path": "../orbital 2024/ihsan-orbital/public"
+		},
+		{
+			"name": ".next",
+			"path": "../orbital 2024/ihsan-orbital/.next"
+		},
+		{
+			"name": "app",
+			"path": "../orbital 2024/ihsan-orbital/app"
+		},
+		{
+			"name": "components",
+			"path": "../orbital 2024/ihsan-orbital/components"
+		},
+		{
+			"name": "constants",
+			"path": "../orbital 2024/ihsan-orbital/constants"
+		}
+	],
+	"settings": {}
+}
